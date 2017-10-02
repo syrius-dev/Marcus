@@ -1,6 +1,7 @@
 Introducing Marcus
-a small neurotic retarded dog
 =============================
+ 
+ A small neurotic retarded dog
  
        ./\   _
   c ..'D> `'//...........'`.
