@@ -1,5 +1,7 @@
 # Python script written by syrius
 # Proof of concept that Marcus is morally and spiritually a broken dog
+# Contact: code2lulz@protonmail.com
+
 print("Introducing Marcus, a small neurotic retarded dog")
 print("""\
           __
